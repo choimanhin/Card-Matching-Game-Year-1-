@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650686486 source:d:\university\u\engg\engg1110\project\proj_new\card_matching_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
